@@ -1,4 +1,5 @@
-==================== Minh chứng ==================== 
+20111601_Phan Nguyễn Hoài Hiệp
+
 1.Usecase diagram
 ![c1](demo/c1.png)
 2.State diagram
