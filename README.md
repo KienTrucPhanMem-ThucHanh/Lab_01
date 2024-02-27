@@ -11,4 +11,4 @@
 5.Component Diagram
 ![c5](demo/c5.png)
 6.Class Diagram
-![c6](demo/c6.png)
+![c6](demo/c6-Copy.png)
